@@ -1,3 +1,2 @@
 # LeetCode
-**Using Javascript, Python and C++**
-
+**Using C++**
